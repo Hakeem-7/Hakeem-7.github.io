@@ -1,15 +1,12 @@
 ---
 layout: resume
 ---
-## Currently
-
-Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2019 - 2021`
+__Auburn University (GPA: 4.0/4.0)__
+Master of Science in Data Science
 
 `1995 - 1997`
 __University Name__
