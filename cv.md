@@ -9,7 +9,7 @@ __Auburn University (GPA: 4.0/4.0)__
 Master of Science in Data Science
 
 `1995 - 1997`
-__University Name__
+__University Name__\
 Degree Awarded 
 
 ## Awards
