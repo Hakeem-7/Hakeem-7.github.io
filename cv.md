@@ -5,12 +5,12 @@ layout: resume
 ## Education
 
 `December 2021`
-**Master of Science in Data Science**\
+**Master of Science in Data Science**
 
 Auburn University **(GPA: 4.0/4.0)**
 
 `December 2019`
-**Master of Science in Pavement and Materials Engineering**\
+**Master of Science in Pavement and Materials Engineering**
 
 Auburn University **(GPA: 4.0/4.0)**
 
