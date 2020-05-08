@@ -17,16 +17,14 @@ Auburn University **(GPA: 4.0/4.0)**
 ## Awards
 
 - `August 2019`
-Civil Engingeering Graduate Fellowship 
-
+Civil Engingeering Graduate Fellowship
 - `August 2019`
 Alabama General Contractors Fellowship 
-
 - `January 2018`
 Ronald Kenyon Asphalt Research Fellowship 
-
 - `November 2016`
 EducationUSA Opportunity Funds Program (OFP) Scholarship 
+
 
 ## Publications
 
