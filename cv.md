@@ -14,8 +14,8 @@ Auburn University **(GPA: 4.0/4.0)**
 
 ## Awards
 
-`August 2019`
-- Civil Engingeering Graduate Fellowship 
+- `August 2019`
+Civil Engingeering Graduate Fellowship 
 
 ## Publications
 
