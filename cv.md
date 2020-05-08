@@ -19,6 +19,15 @@ Auburn University **(GPA: 4.0/4.0)**
 - `August 2019`
 Civil Engingeering Graduate Fellowship 
 
+- `August 2019`
+Alabama General Contractors Fellowship 
+
+- `January 2018`
+Ronald Kenyon Asphalt Research Fellowship 
+
+- `November 2016`
+EducationUSA Opportunity Funds Program (OFP) Scholarship 
+
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
