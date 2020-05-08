@@ -4,18 +4,18 @@ layout: resume
 
 ## Education
 
-`2019 - 2021`
-__Auburn University (GPA: 4.0/4.0)__
-Master of Science in Data Science
+`December 2021`
+**Master of Science in Data Science**\
+Auburn University **(GPA: 4.0/4.0)**
 
-`1995 - 1997`
-__University Name__\
-Degree Awarded 
+`December 2019`
+**Master of Science in Pavement and Materials Engineering**\
+Auburn University **(GPA: 4.0/4.0)**
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`August 2019`
+- Civil Engingeering Graduate Fellowship 
 
 ## Publications
 
