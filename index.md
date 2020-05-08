@@ -3,10 +3,10 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I make sense of data, daily. I am currently looking for a company that needs my curated data science skills to drive-up profit and improve operation efficiency.
 
-## Current Interests and Projects:
+## Recent Projects:
 
 - Website Design
-- [GitHub Pages](http://laderast.github.io)
+- [Kaggle March Madness Competition](https://github.com/Hakeem-7/Kaggle_EDA_Competition)
 - Academia
