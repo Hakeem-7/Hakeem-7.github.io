@@ -5,11 +5,8 @@ layout: resume
 ## Education
 
 `2019 - 2021`
-Master of Science in Data Science
-
-'Auburn, AL'
 __Auburn University (GPA: 4.0/4.0)__
-
+Master of Science in Data Science
 
 `1995 - 1997`
 __University Name__
